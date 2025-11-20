@@ -1,4 +1,4 @@
-# 🧬 Medical Dataset Analysis & Visualization
+# 🧬 Health Care Analysis & Visualization
 
 An end-to-end data analysis project focused on uncovering trends, patterns, and insights from a medical dataset. The goal is to support data-driven decisions in the healthcare domain by analyzing patient data, visualizing distributions, and highlighting correlations between features.
 
