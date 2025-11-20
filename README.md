@@ -43,11 +43,3 @@ An end-to-end data analysis project focused on uncovering trends, patterns, and 
 - Integrate time series if longitudinal data is available  
 - Add anomaly detection to spot rare or critical cases
 
-## 📎 License
-
-MIT License – feel free to use or modify for learning, research, or internal projects.
-
-## 🙋‍♂️ Author
-
-Created by [Vito](https://github.com/Vito-prog)  
-If you find this useful, give the repo a ⭐ and check out my other projects!
